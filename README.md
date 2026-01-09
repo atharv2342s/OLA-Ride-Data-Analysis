@@ -50,5 +50,3 @@ This project focuses on analyzing **OLA ride booking data** to understand bookin
 * Most cancellations are due to operational issues
 * Ratings are consistent across vehicle types
 
-
-Just tell me 👍
